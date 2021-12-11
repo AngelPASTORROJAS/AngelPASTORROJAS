@@ -1,8 +1,9 @@
 - 👋 Salut, je suis @AngelPASTORROJAS
 - 👀 Je m’intéresse dans l'informatique
 - 🌱 Je suis actuellement étudiant en licence 3 informatique à l'université de Lille
-- 💞️ Je suis à la recherche d'un stage à Lille 
+- 💞️ Je suis à la recherche d'un stage à Lille
 - 📫 Vous pouvez retrouver mon CV  dans mon linkedin : linkedin.com/in/angel-daniel-pastor-rojas-557960225
+
 
 
 <!---
