@@ -1,7 +1,6 @@
 - 👋 Salut, je suis @AngelPASTORROJAS
-- 🌱 Je suis actuellement étudiant en Bachelor 3 developpeur web à MydigitalSchool de Lille
+- 🌱 Je suis diplômé en Bachelor developpeur web à MydigitalSchool de Lille
 - 💞️ Je suis à la recherche d'une alternance pour master développeur fullstack
-- 📫 Vous pouvez retrouver mon CV  dans mon linkedin : linkedin.com/in/angel-daniel-pastor-rojas-557960225
 
 
  :smile:
