@@ -2,7 +2,7 @@
 🔭 I am currently a student at Simplon Lille<br>👯 I'm looking to collaborate on interesting projects<br>🤝 I'm looking for help with the frontend. I'm a beginner on Vuejs 3 with QuasarFramework<br>⚡ "Who the hell wrote this crap?! There's nothing that works... Ah shit, it's me! Me, a fortnight ago"
 
 # 📱 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeldaniel.pastorrojas@gmail.com?subject=First_Contac)
+[![Mail](https://img.shields.io/badge/Mail-angeldaniel.pastorrojas%40gmail.com-red)](mailto:angeldaniel.pastorrojas@gmail.com?subject=First-Contact)
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-daniel-pastor-rojas/)
