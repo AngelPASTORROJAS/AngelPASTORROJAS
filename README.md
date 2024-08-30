@@ -103,6 +103,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AngelPASTORROJAS&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+![image](https://www.codewars.com/users/AngelPASTORROJAS/badges/large)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
