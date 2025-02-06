@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I am currently a student at Simplon Lille<br>👯 I'm looking to collaborate on interesting projects<br>🤝 I'm looking for help with the frontend. I'm a beginner on Vuejs 3 with QuasarFramework and strong skills on NET and ASP.NET with C#<br>⚡ "Who the hell wrote this crap?! There's nothing that works... Ah shit, it's me! Me, a fortnight ago"
+🔭 I'm currently a work-study student at Opalean with the CESI school in Lille.<br>👯 I'm looking to collaborate on interesting projects<br>🤝 I'm looking for help with the frontend. My stack is Vuejs 2, 3 with QuasarFramework and strong skills on NET and ASP.NET with C#<br>⚡ "Who the hell wrote this crap?! There's nothing that works... Ah shit, it's me! Me, a fortnight ago"
 
 # 📱 Contact
 [![Mail](https://img.shields.io/badge/Mail-angeldaniel.pastorrojas%40gmail.com-red)](mailto:angeldaniel.pastorrojas@gmail.com?subject=First-Contact)
