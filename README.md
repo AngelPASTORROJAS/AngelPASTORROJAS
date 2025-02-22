@@ -100,6 +100,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelPASTORROJAS&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPASTORROJAS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 📊 GitHub Stats Entreprise:
+![](https://github-readme-stats.vercel.app/api?username=Angel-Daniel-PASTOR-ROJAS&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Angel-Daniel-PASTOR-ROJAS&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Daniel-PASTOR-ROJAS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AngelPASTORROJAS&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
